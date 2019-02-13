@@ -1,0 +1,11 @@
+ git init 
+ git add .
+ git commit -m "First commit"
+ git remote add origin Energy https://github.com/Fhumulani/
+ git remote add origin remote Energy https://github.com/Fhumulani/
+ git push https://github.com/Fhumulani/
+ git push https://github.com/Fhumulani/Enegy.init
+ git push https://github.com/Fhumulani/Enegy.init master
+ git push origin git@github.com:Fhumulani/Energy.git
+ git remote add origin https://github.com/Fhumulani/Energy.git
+ git push -u origin master
